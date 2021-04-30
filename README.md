@@ -1,2 +1,1 @@
-# rsschool-cv
-task0
+https://github.com/LizaSaroka/rsschool-cv/blob/gh-pages/cv.md
